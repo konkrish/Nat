@@ -9,7 +9,7 @@ namespace OopsLive.Models
     {
         public DestExample()
         {
-            Console.WriteLine("An Instance of classcalled");
+            Console.WriteLine("An Instance test of classcalled");
         }
 
         ~DestExample()
