@@ -14,7 +14,7 @@ namespace OopsLive.Models
 
         ~DestExample()
         {
-            Console.WriteLine("An Instance of class destroyed");
+            Console.WriteLine("An Instance of class for  destroyed");
         }
     }
     class Program
